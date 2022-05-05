@@ -24,15 +24,45 @@
 
 // Условия
 
+//
+//
+// if (4) {
+//     console.log('Ok!');
+// }else {
+//     console.log('Error')
+// }
+//
+// const num = 4;
+//
+// (num===4) ? console.log('OK!') : console.log('Error')
+//
+
+// Циклы
 
 
-if (4) {
-    console.log('Ok!');
-}else {
-    console.log('Error')
-}
+// let num = 50;
 
-const num = 4;
+// while (num <= 55) {
+//     console.log(num);
+//     num++;
+// }
+//
+// do{
+//     console.log(num);
+//     num++;
+// }
+// while (num<55)
 
-(num===4) ? console.log('OK!') : console.log('Error')
+// for (let i = 1; i <8; i++) {
+//     console.log(num)
+//     num++
+// }
+//
+// for (let i = 1; i <10; i++) {
+//     if (i===6) {
+//         continue
+//     }
+//     console.log(i)
+// }
+
 
